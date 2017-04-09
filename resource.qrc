@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/palette.png</file>
+        <file>icons/lock.ico</file>
+    </qresource>
+</RCC>
